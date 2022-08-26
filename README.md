@@ -5,6 +5,8 @@ This is the implementation of the tic-tac-toe game, as described in https://reac
 - Stores a game’s history as a game progresses,
 - Allows players to review a game’s history and see previous versions of a game’s board.
 
+Project is deployed on https://sb-react-tuto-from-react-site.netlify.app/
+
 
 # Getting Started with Create React App
 
